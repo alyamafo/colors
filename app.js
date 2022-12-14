@@ -97,5 +97,4 @@ function getColorsFromHash() {
   return []
 }
 
-
 setRandomColors(true)
